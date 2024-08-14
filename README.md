@@ -4,6 +4,8 @@ A straightforward todo list application built with React and styled using Tailwi
 
 The "Hello, world!" of web dev. This project was created a while back as a learning exercise to practice React and Tailwind CSS. I'm sharing it to document my learning journey and contribute to my GitHub portfolio. The app is simple but functional, demonstrating basic React concepts and Tailwind CSS styling.
 
+![Simple Todo List App](public/sample.png)
+
 ## Features
 
 - Add new tasks
